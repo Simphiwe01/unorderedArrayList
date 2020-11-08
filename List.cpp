@@ -1,10 +1,11 @@
+//Simphiwe Magagula
 
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
 
 using namespace std;
-
+// change was made to THis here file............
 List::List(void)
 {size = 0;}
 

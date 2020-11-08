@@ -1,4 +1,5 @@
 #pragma once
+//Simphiwe Magagula
 
 const int MaxSize = 15;
 typedef  int DataType;

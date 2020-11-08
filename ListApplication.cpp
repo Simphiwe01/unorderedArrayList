@@ -1,5 +1,5 @@
 // ListApplication.cpp : Defines the entry point for the console application.
-//
+//Simphiwe Magagula
 
 #include "stdafx.h"
 #include "list.h"
@@ -8,6 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 List L;
+//change WAS Made to this here file
 
 L.Insert (10); L.Insert (15); L.Insert (20);
 L.ShowData ();
